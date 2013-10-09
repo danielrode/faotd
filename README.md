@@ -17,3 +17,11 @@ Biniaries/installers are available at: http://danieltd.github.io/faotd
 
 
 This is one of my first programs (that aren't just small CLI scripts).
+
+
+Thanks to programs/services that made this program possible:
+ - Geany (IDE)
+ - Python (programming language, that makes programming possible for the simpleminded)
+ - QT (cross-platform GUI toolkit)
+ - GitHub (this website ;) )
+ - Google (finds answers to my questions)
