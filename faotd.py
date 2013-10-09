@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 ## Author: Daniel Rode
 ## Name: FAOTD (Free App of The Day Informer)
-## Dependencies: main:{pyside, python3}, fedora:{pyside (get with pip (instructions in gnote)}
+## Dependencies: main:{pyside, python3}, fedora:{pyside (get with pip)}
 ## Version: 4.1
 ## Made: August 24 2012
 ## Last updated: September 12 2013
